@@ -1,5 +1,4 @@
-# Brain-frequency-reading
-Software development for Brain Frequency Analysis in Python
+# Software development for Brain Frequency Analysis in Python
 
 
 Desarrollo de Aplicaciones Multiplataforma
